@@ -1,7 +1,7 @@
 {
   "name": "baby-name-scraper",
   "version": "0.0.1",
-  "description": "Scrapes popular US baby names from Social Security Administration.",
+  "description": "Scrapes U.S. baby names from the Social Security Administration",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
