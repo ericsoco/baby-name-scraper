@@ -1,0 +1,16 @@
+{
+  "name": "baby-name-scraper",
+  "version": "0.0.1",
+  "description": "Scrapes popular US baby names from Social Security Administration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ericsoco",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "json2csv": "^3.4.1",
+    "require": "^2.4.20"
+  }
+}
