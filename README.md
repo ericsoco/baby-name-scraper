@@ -10,6 +10,8 @@ npm start
 
 Good stuff is in `./csv`.
 
+_**Note:**_ You'll need a relatively recent version of Node, one that supports [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign). If you have [`nvm`](https://github.com/creationix/nvm) installed, you can just `nvm use` and you'll be good to go.
+
 ## Why?
 I had a baby! Yay. I have paternity leave! Also yay.
 
