@@ -56,13 +56,15 @@ function parseRow (year, row, $) {
 			year: year,
 			name: $(cells[1]).text(),
 			fraction: parseFloat(($(cells[2]).text().replace('%', '') / 100).toFixed(6)),
-			sex: 'm'
+			sex: 'm',
+			rank: $(cells[0]).text()
 		},
 		{
 			year: year,
 			name: $(cells[3]).text(),
 			fraction: parseFloat(($(cells[4]).text().replace('%', '') / 100).toFixed(6)),
-			sex: 'f'
+			sex: 'f',
+			rank: $(cells[0]).text()
 		}
 	];
 
