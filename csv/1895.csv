@@ -1,7 +1,7 @@
 year,name,fraction,sex,rank
 1895,John,0.065696,m,1
-1895,Mary,0.054414,f,1
-1895,William,0.05746,m,2
+1895,Mary,0.054418,f,1
+1895,William,0.057461,m,2
 1895,Anna,0.024079,f,2
 1895,James,0.042126,m,3
 1895,Helen,0.01628,f,3
@@ -13,13 +13,13 @@ year,name,fraction,sex,rank
 1895,Ruth,0.01437,f,6
 1895,Joseph,0.023625,m,7
 1895,Florence,0.014047,f,7
-1895,Robert,0.020806,m,8
+1895,Robert,0.020807,m,8
 1895,Ethel,0.013723,f,8
 1895,Henry,0.017537,m,9
 1895,Marie,0.012185,f,9
 1895,Edward,0.017395,m,10
 1895,Emma,0.011946,f,10
-1895,Thomas,0.017,m,11
+1895,Thomas,0.017001,m,11
 1895,Bertha,0.010627,f,11
 1895,Harry,0.016803,m,12
 1895,Clara,0.010574,f,12
@@ -38,7 +38,7 @@ year,name,fraction,sex,rank
 1895,Roy,0.008117,m,19
 1895,Annie,0.009672,f,19
 1895,Paul,0.007367,m,20
-1895,Mabel,0.009546,f,20
+1895,Mabel,0.009547,f,20
 1895,Louis,0.007209,m,21
 1895,Rose,0.009154,f,21
 1895,Carl,0.00672,m,22
@@ -47,7 +47,7 @@ year,name,fraction,sex,rank
 1895,Ida,0.008782,f,23
 1895,Ernest,0.006585,m,24
 1895,Gertrude,0.008616,f,24
-1895,Samuel,0.006427,m,25
+1895,Samuel,0.006428,m,25
 1895,Martha,0.008482,f,25
 1895,Raymond,0.006364,m,26
 1895,Pearl,0.007924,f,26
@@ -56,7 +56,7 @@ year,name,fraction,sex,rank
 1895,Joe,0.006025,m,28
 1895,Myrtle,0.007843,f,28
 1895,Harold,0.005946,m,29
-1895,Frances,0.007422,f,29
+1895,Frances,0.007418,f,29
 1895,Ralph,0.005812,m,30
 1895,Nellie,0.007418,f,30
 1895,Richard,0.005741,m,31
@@ -111,7 +111,7 @@ year,name,fraction,sex,rank
 1895,Alma,0.00463,f,55
 1895,Ray,0.003001,m,56
 1895,Maude,0.004597,f,56
-1895,Chester,0.002985,m,57
+1895,Chester,0.002977,m,57
 1895,Dorothy,0.004561,f,57
 1895,Lewis,0.002977,m,58
 1895,Ada,0.004549,f,58
@@ -119,7 +119,7 @@ year,name,fraction,sex,rank
 1895,Mamie,0.004528,f,59
 1895,Edwin,0.002732,m,60
 1895,Stella,0.004152,f,60
-1895,Leonard,0.0027,m,61
+1895,Leonard,0.002701,m,61
 1895,Lucy,0.004112,f,61
 1895,Tom,0.002645,m,62
 1895,Fannie,0.004095,f,62
@@ -257,7 +257,7 @@ year,name,fraction,sex,rank
 1895,Goldie,0.001449,f,128
 1895,Vernon,0.001034,m,129
 1895,Nannie,0.001437,f,129
-1895,Calvin,0.001026,m,130
+1895,Calvin,0.001027,m,130
 1895,Rachel,0.00142,f,130
 1895,Kenneth,0.001003,m,131
 1895,Betty,0.001416,f,131
@@ -452,7 +452,7 @@ year,name,fraction,sex,rank
 1895,Wiley,0.000482,m,226
 1895,Jeannette,0.000607,f,226
 1895,Christopher,0.000474,m,227
-1895,Carolyn,0.000603,f,227
+1895,Carolyn,0.000599,f,227
 1895,Timothy,0.000474,m,228
 1895,Leila,0.000595,f,228
 1895,Grady,0.000466,m,229
